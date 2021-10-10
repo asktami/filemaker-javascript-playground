@@ -4,26 +4,23 @@
 
 FileMaker 19 experiments with various Javascript functions and libraries.
 
+I created this file so that I could experiment with various Javascript libraries and the new <strong>FileMaker 19 Perform JavaScript in Web Viewer</strong> and <strong>Execute FileMaker Data API</strong> script steps.
 
-I created this file so that I could experiment with various Javascript libraries and the new FileMaker 19 Perform JavaScript in Web Viewer and Execute FileMaker Data API script steps.
-
-Records in the RESOURCE table to hold CSS and JavaScript code / libraries / frameworks for use with different demos. 
+The RESOURCE table holds CSS and JavaScript code / libraries / frameworks for use with different demos. 
 
 The HTML_RESOURCE table links the demo to its associated CSS and JavaScript code / libraries / frameworks.
 
-The HTML table holds 1 record for each demo, aka "HTML Template".
+The HTML table holds 1 record for each demo, aka the "HTML Template".
 
-Note:
+<strong>Note:</strong>
 In some of my examples I use a special FUNCTION Web Viewer to run a JavaScript function and then use those results in my demo.  This shows how you can use a Web Viewer to perform a specific function/calculation/etc. that you then use in another Web Viewer/script/etc.
-
 
 Let me know if you have any questions/comments.
 
+<strong>[Sign-up](http://eepurl.com/h11rk) if you want to be notified about updates to this file.</strong>
 
-Email me if you want to be notified about updates to this file.
 
 Enjoy!
-
 
 ![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/About.png)
 
