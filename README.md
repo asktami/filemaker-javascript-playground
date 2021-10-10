@@ -6,9 +6,9 @@ FileMaker 19 experiments with various Javascript functions and libraries.
 
 ![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/About.png)
 
-![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/Screenshots/Main_Demos.png)
+![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Main_Demos.png)
 
-![Other_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/Screenshots/Other_Demos.png)
+![Other_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Other_Demos.png)
 
 
 <ul>
