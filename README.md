@@ -32,7 +32,7 @@ Enjoy!
 ![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Main_Demos.png)
 
 <ul>
-<li><em><strong>Demo Name (Record ID)</em></strong></li>
+<strong>Demo Name (Record ID)</em></strong>
 <li>Blinking Text (1)</li>
 <li>Bootstrap Animated Progress Bar (5)</li>
 <li>C3 Chart (8)</li>
