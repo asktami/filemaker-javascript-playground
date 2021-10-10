@@ -1,10 +1,10 @@
-#filemaker-javascript-playground
+# filemaker-javascript-playground
 
-##Using Javascript in a FileMaker Webviewer
+## Using Javascript in a FileMaker Webviewer
 
 FileMaker 19 experiments with various Javascript functions and libraries.
 
-![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/Screenshots/About.png)
+![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/About.png)
 
 ![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/Screenshots/Main_Demos.png)
 
