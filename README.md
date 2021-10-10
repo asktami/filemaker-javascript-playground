@@ -28,10 +28,11 @@ Enjoy!
 ![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/About.png)
 
 
-## Main Experiments
+## Main Demos
 ![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Main_Demos.png)
 
 <ul>
+<li><em><strong>Demo Name (Record ID)</em></strong></li>
 <li>Blinking Text (1)</li>
 <li>Bootstrap Animated Progress Bar (5)</li>
 <li>C3 Chart (8)</li>
@@ -63,6 +64,5 @@ Enjoy!
 </ul>
 
 
-
-## Other Experiments
+## Other Demos
 ![Other_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Other_Demos.png)
