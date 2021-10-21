@@ -31,7 +31,7 @@ Enjoy!
 <ul>
 <strong>Demo Name (Record ID)</em></strong>
 <li>Blinking Text (1))</li>
-<li><li>Bootstrap Animated Progress Bar (5)</li>
+<li>Bootstrap Animated Progress Bar (5)</li>
 <li>C3 Chart (8)</li>
 <li>C3JS Chart (12)</li>
 <li>C3JS Chart Test  (14)</li>
