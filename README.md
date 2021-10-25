@@ -3,6 +3,7 @@
 ## Using Javascript in a FileMaker Webviewer
 
 FileMaker 19 experiments with various Javascript functions and libraries.
+<strong>Fully tested on Mac. Not fully tested on Windows.</strong>
 
 I created this file so that I could experiment with various Javascript libraries and the new <strong>FileMaker 19 Perform JavaScript in Web Viewer</strong> and <strong>Execute FileMaker Data API</strong> script steps.
 
