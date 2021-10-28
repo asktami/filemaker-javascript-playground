@@ -80,3 +80,18 @@ Enjoy!
 
 ## Other Demos
 ![Other_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Other_Demos.png)
+
+
+# Change Log
+## 10/27/2021
+- Added user-defined parameters to PivotJS demo
+
+## 10/24/2021
+- Updated CSS and JS libraries;
+- Added non-FileMaker Javascript demos, Bootstrap Masonry with JS and Datatables "Cards"
+
+## 10/20/2021
+- Minor changes to PivotJS, NoUI Sliders - Multiple and jQuery WebForm demos
+
+## 10/12/2021
+- Added JSONATA and WebForm examples and check for internet connecton onOpen; added pause before Perform JavaScript in Web Viewer script step
