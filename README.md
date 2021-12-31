@@ -92,7 +92,7 @@ Enjoy!
 
 # Change Log
 ## 12/31/2021
-- Added GoogleMap and Map Address
+- Added GoogleMap and GoogleMap Address
 
 ## 12/30/2021
 - Added jQueryUI Range Slider and Accordian
