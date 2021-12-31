@@ -45,14 +45,21 @@ Enjoy!
 <li>Carafe.FM SanKey (data sorted by Channel and State) (27)</li>
 <li>CSV2JSON: Convert CSV to JSON (7)</li>
 <li>DataTables (for portals) - shift+click to select multiple rows, command+click to select non-adjacent rows (21)</li>
+<li>DataTables TEST - FM18 Survey Questions as Cards, with flag for question already in selected survey (45)</li>
 <li>DataTables TEST - Survey Questions as a table (43)</li>
 <li>DataTables TEST - Survey Questions as Cards, with flag for question already in selected survey (44)</li>
-<li>Faker.js - Create People Test Records  - look at script before clicking ""Run Faker"" (26)</li>
-<li>Faker.js - Create Person and Donation Test Records - look at script before clicking ""Run Faker"" (25)</li>
+<li>Faker.js - Create People Test Records  - look at script before clicking "Run Faker" (26)</li>
+<li>Faker.js - Create Person and Donation Test Records - look at script before clicking "Run Faker" (25)</li>
 <li>FM18 getFieldData array of JSON objects from ExecuteDataAPI script step finding all MARKER records (10)</li>
 <li>FM19 getFieldData array of JSON objects from ExecuteDataAPI script step finding all MARKER records (9)</li>
 <li>FM19 window.location=FileMaker.PerformScript (17)</li>
+<li>GoogleMap (50)</li>
+<li>GoogleMap Address (51)</li>
 <li>Hello World (2)</li>
+<li>jQueryUI Accordian - Default (46)</li>
+<li>jQueryUI Accordian - Dynamic (47)</li>
+<li>jQueryUI Range Slider - Default (48)</li>
+<li>jQueryUI Range Slider - Dynamic (like PipsSlider) (49)</li>
 <li>JS Error Handling - Try, Catch, Finally (11)</li>
 <li>JSONATA - 1 (29)</li>
 <li>JSONATA - 2 (30)</li>
@@ -84,6 +91,13 @@ Enjoy!
 
 
 # Change Log
+## 12/31/2021
+- Added GoogleMap and Map Address
+
+## 12/30/2021
+- Added jQueryUI Range Slider and Accordian
+- Fixed Webforms 1-3 so that Rating value displays correctly after form submitted
+
 ## 10/27/2021
 - Added user-defined parameters to PivotJS demo
 
