@@ -2,6 +2,8 @@
 
 ## Using Javascript in a FileMaker Webviewer
 
+### 51 examples as of 1/1/2022
+
 FileMaker 19 experiments with various Javascript functions and libraries.
 <strong>Fully tested on Mac. Not fully tested on Windows.</strong>
 
@@ -54,7 +56,7 @@ Enjoy!
 <li>FM19 getFieldData array of JSON objects from ExecuteDataAPI script step finding all MARKER records (9)</li>
 <li>FM19 window.location=FileMaker.PerformScript (17)</li>
 <li>GoogleMap (50)</li>
-<li>GoogleMap Address (51)</li>
+<li>GoogleMap An Address (51)</li>
 <li>Hello World (2)</li>
 <li>jQueryUI Accordian - Default (46)</li>
 <li>jQueryUI Accordian - Dynamic (47)</li>
