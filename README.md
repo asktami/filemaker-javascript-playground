@@ -94,7 +94,7 @@ Enjoy!
 
 # Change Log
 ## 12/31/2021
-- Added GoogleMap and GoogleMap Address
+- Added GoogleMap and GoogleMap An Address
 
 ## 12/30/2021
 - Added jQueryUI Range Slider and Accordian
