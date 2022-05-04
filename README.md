@@ -1,34 +1,33 @@
 # filemaker-javascript-playground
 
-## Using Javascript in a FileMaker Webviewer
+## Using JavaScript in a FileMaker Webviewer
 
 ### 51 examples as of 1/1/2022
 
-FileMaker 19 experiments with various Javascript functions and libraries.
+FileMaker 19 experiments with various JavaScript functions and libraries.
 <strong>Fully tested on Mac. Not fully tested on Windows.</strong>
 
-I created this file so that I could experiment with various Javascript libraries and the new <strong>FileMaker 19 Perform JavaScript in Web Viewer</strong> and <strong>Execute FileMaker Data API</strong> script steps.
+I created this file so that I could experiment with various JavaScript libraries and the new <strong>FileMaker 19 Perform JavaScript in Web Viewer</strong> and <strong>Execute FileMaker Data API</strong> script steps.
 
-The RESOURCE table holds CSS and JavaScript code / libraries / frameworks for use with different demos. 
+The RESOURCE table holds CSS and JavaScript code / libraries / frameworks for use with different demos.
 
 The HTML_RESOURCE table links the demo to its associated CSS and JavaScript code / libraries / frameworks.
 
 The HTML table holds 1 record for each demo, aka the "HTML Template".
 
 <strong>Note:</strong>
-In some of my examples I use a special FUNCTION Web Viewer to run a JavaScript function and then use those results in my demo.  This shows how you can use a Web Viewer to perform a specific function/calculation/etc. that you then use in another Web Viewer/script/etc.
+In some of my examples I use a special FUNCTION Web Viewer to run a JavaScript function and then use those results in my demo. This shows how you can use a Web Viewer to perform a specific function/calculation/etc. that you then use in another Web Viewer/script/etc.
 
 Let me know if you have any questions/comments.
 
 <strong>[Sign-up](http://eepurl.com/h11rk) if you want to be notified about updates to this file.</strong>
 
-
 Enjoy!
 
 ![About](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/About.png)
 
-
 ## Main Demos
+
 ![Main_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Main_Demos.png)
 
 <ul>
@@ -86,29 +85,34 @@ Enjoy!
 <li>WebForm-3 (37)</li>
 </ul>
 
-
 ## Other Demos
+
 ![Other_Demos](https://github.com/asktami/filemaker-javascript-playground/blob/main/screenshots/Other_Demos.png)
 
-
-
 # Change Log
+
 ## 12/31/2021
+
 - Added GoogleMap and GoogleMap An Address
 
 ## 12/30/2021
+
 - Added jQueryUI Range Slider and Accordian
 - Fixed Webforms 1-3 so that Rating value displays correctly after form submitted
 
 ## 10/27/2021
+
 - Added user-defined parameters to PivotJS demo
 
 ## 10/24/2021
+
 - Updated CSS and JS libraries;
-- Added non-FileMaker Javascript demos, Bootstrap Masonry with JS and Datatables "Cards"
+- Added non-FileMaker JavaScript demos, Bootstrap Masonry with JS and Datatables "Cards"
 
 ## 10/20/2021
+
 - Minor changes to PivotJS, NoUI Sliders - Multiple and jQuery WebForm demos
 
 ## 10/12/2021
+
 - Added JSONATA and WebForm examples and check for internet connecton onOpen; added pause before Perform JavaScript in Web Viewer script step
