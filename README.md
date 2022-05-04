@@ -115,4 +115,4 @@ Enjoy!
 
 ## 10/12/2021
 
-- Added JSONATA and WebForm examples and check for internet connecton onOpen; added pause before Perform JavaScript in Web Viewer script step
+- Added JSONATA and WebForm examples and check for internet connecton onOpen; added pause before Perform JavaScript in Web Viewer script step.
